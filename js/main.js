@@ -1,7 +1,7 @@
 $(window).on("load", function(){
 
 	// preloader 
-	$(".preloader").fadeOut(2000);
+	$(".preloader").fadeOut(1000);
 
 
 	//home section slideshow
